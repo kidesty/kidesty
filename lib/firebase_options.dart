@@ -8,7 +8,7 @@ import 'package:flutter/foundation.dart'
 ///
 /// Example:
 /// ```dart
-import 'firebase_options.dart';
+/// import 'firebase_options.dart';
 /// // ...
 /// await Firebase.initializeApp(
 ///   options: DefaultFirebaseOptions.currentPlatform,
@@ -40,49 +40,49 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static  FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDOAIEXULlZZm17yHdtbGelJ-b9GNNmnMk',
-    appId: '1:795587654084:web:69f489558d5d7072777491',
-    messagingSenderId: '795587654084',
-    projectId: 'muki-2d1b6',
-    authDomain: 'muki-2d1b6.firebaseapp.com',
-    storageBucket: 'muki-2d1b6.appspot.com',
-    measurementId: 'G-83GL0HS5GH',
+  static const FirebaseOptions web = FirebaseOptions(
+    apiKey: 'AIzaSyAfc1dBMDkWvU7FjvtBCAuGwrpGnOo2YCc',
+    appId: '1:466631438463:web:ad0be272407a92523ecf4a',
+    messagingSenderId: '466631438463',
+    projectId: 'kidesty-471cb',
+    authDomain: 'kidesty-471cb.firebaseapp.com',
+    storageBucket: 'kidesty-471cb.appspot.com',
+    measurementId: 'G-3V5WW32RPR',
   );
 
-  static  FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDJLn-0Z4esEv63fNF5QPdZDeZ130zlItg',
-    appId: '1:795587654084:android:54fb1b2d0eee19b9777491',
-    messagingSenderId: '795587654084',
-    projectId: 'muki-2d1b6',
-    storageBucket: 'muki-2d1b6.appspot.com',
+  static const FirebaseOptions android = FirebaseOptions(
+    apiKey: 'AIzaSyD6dZgdENr2wB3MtStuKMmO1chu3netE0U',
+    appId: '1:466631438463:android:ee7cf5169cf3c0d53ecf4a',
+    messagingSenderId: '466631438463',
+    projectId: 'kidesty-471cb',
+    storageBucket: 'kidesty-471cb.appspot.com',
   );
 
-  static  FirebaseOptions ios =FirebaseOptions(
-    apiKey: 'AIzaSyA51PKoC4Q_JSjsEZ_IwPpF5vPm_gOXjL0',
-    appId: '1:795587654084:ios:24060e16d8cdd698777491',
-    messagingSenderId: '795587654084',
-    projectId: 'muki-2d1b6',
-    storageBucket: 'muki-2d1b6.appspot.com',
+  static const FirebaseOptions ios = FirebaseOptions(
+    apiKey: 'AIzaSyDpFk4EoK1DKun0-qEm5EzYUazEbp_2PJQ',
+    appId: '1:466631438463:ios:26d256d1dae43f113ecf4a',
+    messagingSenderId: '466631438463',
+    projectId: 'kidesty-471cb',
+    storageBucket: 'kidesty-471cb.appspot.com',
     iosBundleId: 'com.example.shabaniPage',
   );
 
-  static  FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyA51PKoC4Q_JSjsEZ_IwPpF5vPm_gOXjL0',
-    appId: '1:795587654084:ios:24060e16d8cdd698777491',
-    messagingSenderId: '795587654084',
-    projectId: 'muki-2d1b6',
-    storageBucket: 'muki-2d1b6.appspot.com',
+  static const FirebaseOptions macos = FirebaseOptions(
+    apiKey: 'AIzaSyDpFk4EoK1DKun0-qEm5EzYUazEbp_2PJQ',
+    appId: '1:466631438463:ios:26d256d1dae43f113ecf4a',
+    messagingSenderId: '466631438463',
+    projectId: 'kidesty-471cb',
+    storageBucket: 'kidesty-471cb.appspot.com',
     iosBundleId: 'com.example.shabaniPage',
   );
 
-  static  FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDOAIEXULlZZm17yHdtbGelJ-b9GNNmnMk',
-    appId: '1:795587654084:web:2f26e987b7ebce04777491',
-    messagingSenderId: '795587654084',
-    projectId: 'muki-2d1b6',
-    authDomain: 'muki-2d1b6.firebaseapp.com',
-    storageBucket: 'muki-2d1b6.appspot.com',
-    measurementId: 'G-2ZDYXTGHD2',
+  static const FirebaseOptions windows = FirebaseOptions(
+    apiKey: 'AIzaSyAfc1dBMDkWvU7FjvtBCAuGwrpGnOo2YCc',
+    appId: '1:466631438463:web:4b679fd072d973383ecf4a',
+    messagingSenderId: '466631438463',
+    projectId: 'kidesty-471cb',
+    authDomain: 'kidesty-471cb.firebaseapp.com',
+    storageBucket: 'kidesty-471cb.appspot.com',
+    measurementId: 'G-6ZQDBT91Q2',
   );
 }

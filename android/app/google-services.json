@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "795587654084",
-    "project_id": "muki-2d1b6",
-    "storage_bucket": "muki-2d1b6.appspot.com"
+    "project_number": "466631438463",
+    "project_id": "kidesty-471cb",
+    "storage_bucket": "kidesty-471cb.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:795587654084:android:54fb1b2d0eee19b9777491",
+        "mobilesdk_app_id": "1:466631438463:android:ee7cf5169cf3c0d53ecf4a",
         "android_client_info": {
-          "package_name": "com.shaban.app"
+          "package_name": "com.adamu.app"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDJLn-0Z4esEv63fNF5QPdZDeZ130zlItg"
+          "current_key": "AIzaSyD6dZgdENr2wB3MtStuKMmO1chu3netE0U"
         }
       ],
       "services": {
