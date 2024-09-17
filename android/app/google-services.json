@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795587654084",
+    "project_id": "muki-2d1b6",
+    "storage_bucket": "muki-2d1b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795587654084:android:54fb1b2d0eee19b9777491",
+        "android_client_info": {
+          "package_name": "com.shaban.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJLn-0Z4esEv63fNF5QPdZDeZ130zlItg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
